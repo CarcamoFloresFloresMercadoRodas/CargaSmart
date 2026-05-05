@@ -1,0 +1,24 @@
+{
+  "name": "cargasmart",
+  "version": "1.0.0",
+  "description": "CargaSmart is a high availability logistics platform in El Salvador connecting e-commerce businesses with independent couriers for sub 24 hour delivery. This repository houses the core backend logic and the driver side mobile application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarcamoFloresFloresMercadoRodas/CargaSmart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CarcamoFloresFloresMercadoRodas/CargaSmart/issues"
+  },
+  "homepage": "https://github.com/CarcamoFloresFloresMercadoRodas/CargaSmart#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
